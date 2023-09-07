@@ -10,7 +10,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 
-- ### [Live site url](https://your-live-site-url.com)
+- ### [Live site url](https://amrabdelgwaad.github.io/interactive-rating-component/)
 
 ## My process
 
